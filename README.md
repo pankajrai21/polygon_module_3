@@ -111,7 +111,7 @@ The circuit has been verified for the following input `A: 0` and `B: 1`
     ```
 - Deploy the verifier Contract
     ```
-    npx hardhat run scripts/deploy.ts --network mumbai
+    npx hardhat run scripts/deploy.ts --network sepholia
     ```
     &nbsp;
 The script will compile the contract and deploy it onto the Mumbai Testnet. The address of the contract will be printed on the console. 
